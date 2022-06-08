@@ -13,9 +13,6 @@ The best way to record data is interactively via the python prompt within the SS
 
 ```
 cd 'Path to datacap'
-python
+python -m datacap 
 ```
 
-```python
-
-```
