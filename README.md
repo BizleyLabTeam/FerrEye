@@ -1,10 +1,9 @@
 # FerrEye
-Ferret Eye Tracker
 
+Video capture for ferret eye tracking using Raspberry Pi Zero.
 
 # Requirements
 Python
-
 
 
 # Get started 
