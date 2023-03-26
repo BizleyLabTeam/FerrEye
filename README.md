@@ -8,10 +8,10 @@ Python
 
 # Get started 
 
-The best way to record data is interactively via the python prompt within the SSH terminal:
+The best way to record data is interactively via the python prompt within an SSH terminal:
 
 ```
-cd 'Path to repo' / bin
-python -m capture_data 
+cd 'Path to repo' 
+python -m ./bin/capture_data 
 ```
 
